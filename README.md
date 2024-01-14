@@ -1,4 +1,5 @@
 # FirstStep
+
 # Referans Layihənin Baxılması və Sənədləşdirilməsi
 ## Trendyol
 
@@ -86,12 +87,12 @@ Bu xüsusiyyət istifadəçi təcrübəsini fərdiləşdirir və alış-veriş p
 # Başlanğıc olaraq Sədərək Ticarət Mərkəzinin E-commerce çəkilməsi
 ## Sədərək Ticarət Mərkəzi şərti olaraq 6 hissəyə bölünürː
 
-ELİT KORPUSU
-XALÇA BAZARI
-TİKİNTİ BAZARI
-I ƏRAZİ
-II ƏRAZİ
-III ƏRAZİ
+## ELİT KORPUSU  
+## XALÇA BAZARI
+## TİKİNTİ BAZARI
+## I ƏRAZİ
+## II ƏRAZİ
+## III ƏRAZİ
 
 ## Hər hissədəki magazalar magaza nömrəsinə (primary key) uyğun olaraq adlandırılıb site'da qeydiyyatdan keçəcək
 
@@ -130,16 +131,14 @@ Veb saytınızı və tətbiqinizi tanıtmaq üçün marketinq strategiyası yara
 Satıcı tərəf dəstəyi - Adaptasiya dəstəyi və Güzəştlər
 Müştəri tərəfi dəstıyi - Xüsusi təkliflər kupunlar və ya endirimlər təklif etməklə diqqəti cəlb edilməsi.
 
-## Development idarəsi
+# Development idarəsi
 
-1 - V.S - ASP.NET C#
-2 - Database Management Entity Framework
-3 - Frontend Flutter
-4 - Payment Hazır Api
-5 - Hosting Microsoft Azure
-6 - Security  SSL İdentity Framework
-7 - Test Debug MsTest Postman
-8 - Version Control Git
-9 - Kargo Təslimat GL7
-
-
+## 1 - V.S - ASP.NET C#
+## 2 - Database Management Entity Framework
+## 3 - Frontend Flutter
+## 4 - Payment Hazır Api
+## 5 - Hosting Microsoft Azure
+## 6 - Security  SSL İdentity Framework
+## 7 - Test Debug MsTest Postman
+## 8 - Version Control Git
+## 9 - Kargo Təslimat GL7
