@@ -300,12 +300,12 @@ Müştəri tərəfi dəstıyi - Xüsusi təkliflər kupunlar və ya endirimlər 
 Qadın
 Kişi
 Ana & Uşaq
-Ana səhifə »Yaşamaq
+Tikinti materiallari
 Supermarket
 Kosmetika
-Ayaqqabılar &çantalar
+Ayaqqabılar & çantalar
 Elektronika
-İdman &Outdoors
+İdman & Outdoors
 
 # Platformada  ümumi xüsusiyyətləri 
 
