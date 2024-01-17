@@ -295,7 +295,7 @@ Veb saytınızı və tətbiqinizi tanıtmaq üçün marketinq strategiyası yara
 Satıcı tərəf dəstəyi - Adaptasiya dəstəyi və Güzəştlər
 Müştəri tərəfi dəstıyi - Xüsusi təkliflər kupunlar və ya endirimlər təklif etməklə diqqəti cəlb edilməsi.
 
-Umumi kateqoriyalar
+# Umumi kateqoriyalar
 
 Qadın
 Kişi
@@ -307,7 +307,7 @@ Ayaqqabılar &çantalar
 Elektronika
 İdman &Outdoors
 
-Platformada  ümumi xüsusiyyətləri 
+# Platformada  ümumi xüsusiyyətləri 
 
 Axtarış motoru və filtrləmə:
 
@@ -348,5 +348,6 @@ Canlı dəstək və müştəri xidməti telefon xətti kimi rabitə kanalları v
 ## 7 - Test Debug MsTest Postman
 ## 8 - Version Control Git
 ## 9 - Kargo Təslimat GL7
+
 
 
