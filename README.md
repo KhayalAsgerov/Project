@@ -258,7 +258,7 @@ Bu xüsusiyyət istifadəçi təcrübəsini fərdiləşdirir və alış-veriş p
 ## II ƏRAZİ
 ## III ƏRAZİ
 
-## Hər hissədəki magazalar magaza nömrəsinə (primary key) uyğun olaraq adlandırılıb site'da qeydiyyatdan keçəcək
+## Hər hissədəki magazalar magaza nömrəsinə uyğun olaraq adlandırılıb site'da qeydiyyatdan keçəcək
 
 # Təməl Addımlar
 
