@@ -295,6 +295,48 @@ Veb saytınızı və tətbiqinizi tanıtmaq üçün marketinq strategiyası yara
 Satıcı tərəf dəstəyi - Adaptasiya dəstəyi və Güzəştlər
 Müştəri tərəfi dəstıyi - Xüsusi təkliflər kupunlar və ya endirimlər təklif etməklə diqqəti cəlb edilməsi.
 
+Umumi kateqoriyalar
+
+Qadın
+Kişi
+Ana & Uşaq
+Ana səhifə »Yaşamaq
+Supermarket
+Kosmetika
+Ayaqqabılar &çantalar
+Elektronika
+İdman &Outdoors
+
+Platformada  ümumi xüsusiyyətləri 
+
+Axtarış motoru və filtrləmə:
+
+İstifadəçilər məhsulları asanlıqla tapmaq üçün axtarış sistemindən istifadə edə bilərlər. Bundan əlavə, axtarış nəticələrini filtrləmək üçün seçimlər tez-tez marka, qiymət diapazonu və ölçü kimi meyarlara əsasən edilə bilər.
+
+Məhsul Səhifələri:
+
+Hər bir məhsulun öz səhifəsi var. Bu səhifələrdə məhsulun fotoşəkilləri, təsviri, qiyməti və digər detalları var.
+
+Səbət və Ödəniş:
+
+İstifadəçilər bəyəndikləri məhsulları səbətə əlavə edib sonra ödəniş edə bilərlər. Adətən kredit kartı, debet kartı, çatdırılma zamanı ödəniş kimi müxtəlif ödəniş üsulları təklif olunur.
+
+İstifadəçi hesabları:
+
+İstifadəçilər bu hesablar vasitəsilə şəxsi hesablar yarada və sifariş tarixçələrini, sevimli məhsulları və ünvan məlumatlarını idarə edə bilərlər.
+
+Endirimlər və Kampaniyalar:
+
+Platforma adətən müəyyən dövrlərdə və ya xüsusi günlərdə endirimlər və kampaniyalar təşkil edir.
+
+Məhsul rəyləri və reytinqləri:
+
+İstifadəçilər tez-tez satın aldıqları məhsulları qiymətləndirə və bu qiymətləndirmələri digər istifadəçilərlə paylaşa bilərlər.
+
+Müştəri xidməti:
+
+Canlı dəstək və müştəri xidməti telefon xətti kimi rabitə kanalları vasitəsilə istifadəçilərə kömək və dəstək verilir.
+
 # Development idarəsi
 
 ## 1 - V.S - ASP.NET C#
